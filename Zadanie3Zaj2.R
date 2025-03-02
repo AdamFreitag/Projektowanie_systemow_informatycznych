@@ -1,3 +1,7 @@
+#W swojej wypowiedzi z 2021 roku prezydent Biden w głownej mierze mówi o planie walki z pandemią, opiece i pracy. 
+#W wypowiedzi z 2024 roku prezydent Biden skupia się na przyszłości. Mówi również o podatkach i historii. 
+
+
 # Tworzenie chmury słów za pomocą pakietu wordcloud
 install.packages("wordcloud")
 library(wordcloud)
